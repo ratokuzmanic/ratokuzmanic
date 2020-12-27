@@ -1,4 +1,4 @@
-### Hi there, I'm Rato 👋
+## Hi there, I'm Rato 👋
 
 I'm an experienced software engineer with a master's degree in computer science. I specialize in applying theoretical knowledge of computer networks, information security, and software engineering in practice by helping businesses compare, select, implement, and document technical solutions.
 
